@@ -4,7 +4,7 @@
 - Avishka Shehan
 - Nipuna Janaranjana
 - Chamath Thiwanka
-- Pubudu Sheshan
+- Pubudu Shehan
 - Lasantha Dinidu
 - Pawan Vikasitha
 
